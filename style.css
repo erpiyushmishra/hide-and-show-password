@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:"poppins", sans-serif;
+    box-sizing:border-box;
+}
+body{
+    background-color: #250057;
+
+}
+.parent{
+    background:white;
+    width:90%;
+    max-width:500px;
+    margin:300px auto;
+    padding:10px;
+    border-radius:5px;
+    display:flex;
+    align-items: center;
+}
+.password{
+    width:100%;
+    border:0;
+    font-size:24px;
+    outline:0;
+}
+img{
+    width:34px;
+}
